@@ -1,0 +1,13 @@
+pre{
+    color: lightseagreen;
+    font-weight: bold;
+}
+h2{
+    text-decoration: underline;
+    color:crimson;
+}
+p{
+    color:cadetblue;
+    font-family: cursive;
+    font-weight: bold;
+}
